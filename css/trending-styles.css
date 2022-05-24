@@ -1,0 +1,48 @@
+.intro-trending{
+    background-image: url(../img/intro-trending.jpg);
+    height: 2700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sport{
+    margin-top: 228px; 
+}
+.science{
+    margin-top: 160px;
+}
+.art{
+    margin-top: 162px;
+    margin-bottom: 437px;
+}
+.trending-info{
+    width: 130px;
+    height: 65px;
+    background: #5B7DB1;
+    border-radius: 30px;
+    margin-left: 120px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 31px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trending-line{
+    margin-left: 220px;
+    width: 790px;
+    background-color: #5B7DB1;
+    border: 1px solid #5B7DB1;
+}
+.trending-content{
+    margin-top: 160px ;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-trending{
+    margin-top: 500px;
+    height: 250px;
+    background: #2C4E7C;
+}
