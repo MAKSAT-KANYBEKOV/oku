@@ -1,1 +1,1 @@
-
+https://github.com/MAKSAT-KANYBEKOV/oku.git
